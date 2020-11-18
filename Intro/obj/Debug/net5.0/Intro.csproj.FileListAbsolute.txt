@@ -1,0 +1,15 @@
+/Users/jolo/Desktop/FSD107/Intro/bin/Debug/net5.0/Intro.deps.json
+/Users/jolo/Desktop/FSD107/Intro/bin/Debug/net5.0/Intro.runtimeconfig.json
+/Users/jolo/Desktop/FSD107/Intro/bin/Debug/net5.0/Intro.runtimeconfig.dev.json
+/Users/jolo/Desktop/FSD107/Intro/bin/Debug/net5.0/Intro.dll
+/Users/jolo/Desktop/FSD107/Intro/bin/Debug/net5.0/ref/Intro.dll
+/Users/jolo/Desktop/FSD107/Intro/bin/Debug/net5.0/Intro.pdb
+/Users/jolo/Desktop/FSD107/Intro/obj/Debug/net5.0/Intro.csprojAssemblyReference.cache
+/Users/jolo/Desktop/FSD107/Intro/obj/Debug/net5.0/Intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jolo/Desktop/FSD107/Intro/obj/Debug/net5.0/Intro.AssemblyInfoInputs.cache
+/Users/jolo/Desktop/FSD107/Intro/obj/Debug/net5.0/Intro.AssemblyInfo.cs
+/Users/jolo/Desktop/FSD107/Intro/obj/Debug/net5.0/Intro.csproj.CoreCompileInputs.cache
+/Users/jolo/Desktop/FSD107/Intro/obj/Debug/net5.0/Intro.dll
+/Users/jolo/Desktop/FSD107/Intro/obj/Debug/net5.0/ref/Intro.dll
+/Users/jolo/Desktop/FSD107/Intro/obj/Debug/net5.0/Intro.pdb
+/Users/jolo/Desktop/FSD107/Intro/obj/Debug/net5.0/Intro.genruntimeconfig.cache

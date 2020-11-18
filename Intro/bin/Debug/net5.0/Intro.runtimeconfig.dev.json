@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/jolo/.dotnet/store/|arch|/|tfm|",
+      "/Users/jolo/.nuget/packages"
+    ]
+  }
+}
